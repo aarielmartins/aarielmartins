@@ -10,7 +10,7 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aarielmartins&repo=Projeto---E-food.github.io&theme=dark)](https://github.com/aarielmartins/Projeto---E-food.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aarielmartins&repo=Projeto---E-food&theme=dark)](https://github.com/aarielmartins/Projeto---E-food)
 
 
 ### Linguagens utilizadas
