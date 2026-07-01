@@ -1,6 +1,6 @@
 ### Hello World 👋
 ###### Sobre a Ariel
-💻 Dev Front-End em transição de carreira, unindo Arquitetura e Urbanismo com tecnologia para criar interfaces modernas, responsivas e centradas no usuário. Trabalho com JavaScript, TypeScript, React, Vue.js e Redux, sempre com foco em código limpo e boa experiência de uso. Atualmente expandindo os conhecimentos em Back-End com Python e Django. 🚀
+💻 Dev Front-End em transição de carreira, usando a tecnologia para criar interfaces modernas, responsivas e centradas no usuário. Atualmente expandindo os conhecimentos em Back-End com Python e Django. 🚀
 
 ### Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aarielmartins&repo=MOD_28_Calculadora_React&theme=dark)](https://github.com/aarielmartins/MOD_28_Calculadora_React/)
