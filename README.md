@@ -1,36 +1,13 @@
 ### Hello World 👋
-
 ###### Sobre a Ariel
-2 anos de experiência no desenvolvimento de projetos com o uso de diversas tecnologias para desenvolvimento web.
-
-### Detalhes
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarielmartins&show_icons=true&theme=dark)](https://github.com/aarielmartins/Projeto---E-food)
+💻 Dev Front-End em transição de carreira, unindo Arquitetura e Urbanismo com tecnologia para criar interfaces modernas, responsivas e centradas no usuário. Trabalho com JavaScript, TypeScript, React, Vue.js e Redux, sempre com foco em código limpo e boa experiência de uso. Atualmente expandindo os conhecimentos em Back-End com Python e Django. 🚀
 
 ### Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aarielmartins&repo=Projeto---E-food&theme=dark)](https://github.com/aarielmartins/Projeto---E-food)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aarielmartins&repo=MOD_28_Calculadora_React&theme=dark)](https://github.com/aarielmartins/MOD_28_Calculadora_React/)
 
 ### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarielmartins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarielmartins&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
-
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/ariel-martins-bb2161165/)
-
-<!--
-**aarielmartins/aarielmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/aarielmartins/)
+[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='30'>](mailto:a.martiins.am@gmail.com)
