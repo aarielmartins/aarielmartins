@@ -10,6 +10,6 @@
 
 ###
  
-<img data-importer="snake" src="https://raw.githubusercontent.com/a/a/snake-output/snake.svg" alt="Snake animation" /> 
+<img data-importer="snake" src="https://raw.githubusercontent.com/a/a/snake-output/snake.svg" alt="Snake animation" />
 
 ###
