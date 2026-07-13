@@ -20,6 +20,7 @@ Atualmente expandindo os conhecimentos em Back-End com Python e Django para me t
 
 ### 💻 STACKS:
 
+Javascript | Typescript | React | HTML | CSS | Node.js | Python
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
