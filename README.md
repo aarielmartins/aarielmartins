@@ -1,13 +1,15 @@
-### Hello World 👋
-###### Sobre a Ariel
-💻 Dev Front-End em transição de carreira, usando a tecnologia para criar interfaces modernas, responsivas e centradas no usuário. Atualmente expandindo os conhecimentos em Back-End com Python e Django. 🚀
+<h1 data-importer="text" align="left">Hello World! 👋 What's up?</h1>
 
-### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aarielmartins&repo=MOD_28_Calculadora_React&theme=dark)](https://github.com/aarielmartins/MOD_28_Calculadora_React/)
+###
 
-### Linguagens utilizadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarielmartins&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p data-importer="text" align="left">Desenvolvedora Front-End, usando a tecnologia para criar interfaces modernas, responsivas e centradas no usuário. Atualmente expandindo os conhecimentos em Back-End com Python e Django para me tornar Full Stack</p>
 
-### Contatos
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/aarielmartins/)
-[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='30'>](mailto:a.martiins.am@gmail.com)
+###
+
+<h2 data-importer="text" align="left">Linguagens:</h2>
+
+###
+ 
+<img data-importer="snake" src="https://raw.githubusercontent.com/a/a/snake-output/snake.svg" alt="Snake animation" /> 
+
+###
