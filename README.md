@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">Desenvolvedora Front-End, usando a tecnologia para criar interfaces modernas, responsivas e centradas no usuário. 
+<p data-importer="text" align="left">Desenvolvedora Front-End com a bagagem da arquitetura, usando a tecnologia para criar interfaces modernas, responsivas e centradas no usuário. 
 Atualmente expandindo os conhecimentos em Back-End com Python e Django para me tornar Full Stack. 
 
 ⭐ Sempre aberta a colaborações.</p>
