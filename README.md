@@ -11,7 +11,7 @@ Atualmente expandindo os conhecimentos em Back-End com Python e Django para me t
 
 
 
-### 🌐 REDES SOCIAIS
+### 🌐 CONTATOS
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:a.martiins.am@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/aarielmartins/)
