@@ -2,8 +2,8 @@
 
 ###
 
-<p data-importer="text" align="left">Desenvolvedora Front-End com a bagagem da arquitetura, usando a tecnologia para criar interfaces modernas, responsivas e centradas no usuário. 
-Atualmente expandindo os conhecimentos em Back-End com Python e Django para me tornar Full Stack. 
+<p data-importer="text" align="left">Desenvolvedora Front End com a bagagem da arquitetura, usando a tecnologia para criar interfaces modernas, responsivas e centradas no usuário. Noções de Back End com Python e Django.
+Atualmente expandindo os conhecimentos em estudos de algoritmos, estruturas de dados e system design para fortalecer ainda mais minha base técnica.
 
 ⭐ Sempre aberta a colaborações.</p>
 
@@ -11,9 +11,8 @@ Atualmente expandindo os conhecimentos em Back-End com Python e Django para me t
 
 
 
-### 🌐 CONTATOS
+### 🌐 CONTATO
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:a.martiins.am@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/aarielmartins/)
 
 
