@@ -3,7 +3,7 @@
 ###
 
 <p data-importer="text" align="left">Desenvolvedora Front End com a bagagem da arquitetura, usando a tecnologia para criar interfaces modernas, responsivas e centradas no usuário. Noções de Back End com Python e Django.
-Atualmente expandindo os conhecimentos em estudos de algoritmos, estruturas de dados e system design para fortalecer ainda mais minha base técnica.
+Atualmente expandindo os conhecimentos em estudos de algoritmos, estruturas de dados e system design para fortalecer ainda mais minha base técnica, além de estar de olho em LLMs, prompt engineering e RAG, para aprender a integrar IA a interfaces e aplicações web.
 
 ⭐ Sempre aberta a colaborações.</p>
 
